@@ -19,8 +19,11 @@ Coloque uma coisa na cabeça, a **Lógica** é tudo nessa área, com uma lógica
    * [Documentação do CSS](https://www.w3schools.com/css/default.asp).
    
    Desafios:
+   
    **1.** Faça uma página para Login e outra para Cadastro;
+   
    **2.** Faça uma página inicial para um e-commerce de eletrônicos, com a listagem dos items, categorias, navegação e etc. Segue um [exemplo](https://www.kabum.com.br/).
+   
    **3.** Faça uma página de apresentação (Landing Page) com um tema da sua preferência, [exemplo](https://leadster.com.br/geracao-de-orcamentos-b2b/).
   
   **2.**  Assim que sentir firmeza trabalhando com as tags e estilizando as suas primeiras páginas, você poderá ser apresentado ao **Javascript** para que ele possa dar vida a elas. Isso vai demandar uma atenção legal sua, é normal que você tenha dificuldades, isso é natural;
