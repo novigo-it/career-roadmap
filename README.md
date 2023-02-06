@@ -17,14 +17,6 @@ Coloque uma coisa na cabeça, a **Lógica** é tudo nessa área, com uma lógica
    Caso queira consultar uma referência ou exemplo, abra esses endereços:
    * [Documentação do HTML](https://www.w3schools.com/html/default.asp);
    * [Documentação do CSS](https://www.w3schools.com/css/default.asp).
-   
-   Desafios:
-   
-   **1.** Faça uma página para Login e outra para Cadastro;
-   
-   **2.** Faça uma página inicial para um e-commerce de eletrônicos, com a listagem dos items, categorias, navegação e etc. Segue um [exemplo](https://www.kabum.com.br/).
-   
-   **3.** Faça uma página de apresentação (Landing Page) com um tema da sua preferência, [exemplo](https://leadster.com.br/geracao-de-orcamentos-b2b/).
   
   **2.**  Assim que sentir firmeza trabalhando com as tags e estilizando as suas primeiras páginas, você poderá ser apresentado ao **Javascript** para que ele possa dar vida a elas. Isso vai demandar uma atenção legal sua, é normal que você tenha dificuldades, isso é natural;
    * [JavaScript: programando na linguagem da web](https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web);
@@ -33,6 +25,11 @@ Coloque uma coisa na cabeça, a **Lógica** é tudo nessa área, com uma lógica
    Documentações essenciais:
    * [Documentação do Javascript, oficial](https://developer.mozilla.org/en-US/docs/Web/JavaScript);
    * [Documentação do Javascript, pela W3Schools](https://www.w3schools.com/js/default.asp).
+   
+   Exercícios para praticar:
+   * [40 projetos em JavaScript para iniciantes – ideias simples para começar a programar em JS](https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/#como-criar-um-contador);
+   
+   Alguma dúvda? Busque pelo seu problema na internet primeiro, há N fórums por aí que poderão te auxiliar nesse impasse. É natural que você tenha problemas no início, afina, você está começando! 
    
   **3.** Hora de conhecer o **Git** e o **Github**, ferramentas para versionamento de projetos.
   * [Git e Github: o que são, como configurar e primeiros passos](https://www.alura.com.br/artigos/o-que-e-git-github);
