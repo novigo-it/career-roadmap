@@ -43,6 +43,7 @@ Coloque uma coisa na cabeça, a **Lógica** é tudo nessa área, com uma lógica
    
   ### Intermediário
   **1.** Assista ao curso de React JS do Matheus Battisti do Hora de Codar, disponível no [Youtube](https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO), ele tem uma didática muito boa e é bem objetivo. Nesse curso você vai aprender a criar um projeto utilizando o React, como criar Hooks ou usar Hooks, consumir uma API e muitos outros tópicos. Busque por exercícios de React JS na internet e faça para praticar, por sua conta!
+  
   **2.** Uma plataforma que eu particularmente gosto bastante é a Rocketseat, que embora não seja tão amigável para quem está começando do 0, é muito boa no quesito objetividade e conteúdo. Crie uma conta e faça os seguintes cursos para aperfeiçoar seu conhecimento:
   * [Javascript Assíncrono e Promises](https://app.rocketseat.com.br/discover/course/javascript-assincrono-e-promises);
   * [Trabalhando com APIs](https://app.rocketseat.com.br/discover/course/trabalhando-com-apis)
