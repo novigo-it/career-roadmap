@@ -1,10 +1,22 @@
 # Plano de Estudos 
 
- Esse documento trata-se de um esquema do que **EU**, Christian, considero que seja o ideal para alguém que esteja começando na área de Desenvolvimento. Esse caminho não é mandatório, já que cada um tem o seu ritmo e os seus métodos para captalizar as coisas, porém é válido como ponto de apoio.
+ Esse documento trata-se de um esquema do que **EU**, Christian, considero que seja o ideal para alguém que esteja começando na área de Desenvolvimento. Esse caminho não é mandatório, já que cada um tem o seu ritmo e os seus métodos para captalizar as coisas, porém é válido como ponto de apoio. Considere que esse roteiro é para uma carreira como Desenvolvedor Full Stack.
   
 # Introdução ao Desenvolvimento
 
 Coloque uma coisa na cabeça, a **Lógica** é tudo nessa área, com uma lógica de programação aguçada, tendo boas práticas e conhecendo a linguagem você consegue construir qualquer coisa!
+
+ ### Portugol
+ **1.** Um dos caminhos mais eficientes de se começar é através da prática no desenvolvimento de algoritmos utilizando uma linguagem chamada Portugol, desenvolvida para fins acadêmicos por um professor. 
+ * [Playlist do Curso de Portugol do Professor Guanabara](https://youtu.be/8mei6uVttho?si=J-JY99LJAl89cUsA).
+
+### Linguagem C
+***2.***  Assim que o Portugol fizer sentido você pode partir para uma linguagem mais desafiadora e poderosa como a linguagem C. Embora seja uma linguagem antiga, a maioria das linguagens que temos disponíveis no mercado hoje foram criadas utilizando a C, logo a sintaxe e a gramática delas apresentam bastantes semelhanças, por isso faz sentido conhecer ela inicialmente.
+ * [Playlist do Curso de Portugol do Professor Assis](https://youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E&si=lqq9T4YWw6-4gOkj).
+
+Faça exercícios de algoritmos simples que envolvam a lógica da solução de problemas, assim que sentir que conheceu o suficiente sobre o C você pode partir para o nível básico da coisa. É normal sentir dificuldade, aprender a programar não é uma atividade fácil, bem como demanda tempo e dedicação.
+
+Vale ressaltar que é importante que você tenha absorvido bem os conceitos sobre tipos, declaração de variáveis, estruturas de repetição e condicionais, funções e escopo. Quando você estiver pronto, pode seguir para o roteiro.
 
 # Roteiro
   ### Básico
