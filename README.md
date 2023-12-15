@@ -8,7 +8,7 @@ Coloque uma coisa na cabeça, a **Lógica** é tudo nessa área, com uma lógica
 
  ### Portugol
  **1.** Um dos caminhos mais eficientes de se começar é através da prática no desenvolvimento de algoritmos utilizando uma linguagem chamada Portugol, desenvolvida para fins acadêmicos por um professor. 
- * [Playlist do Curso de Portugol do Professor Guanabara](https://youtu.be/8mei6uVttho?si=J-JY99LJAl89cUsA).
+ * [Playlist do Curso de Portugol do Professor Guanabara](https://youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E&si=qvGZ02BYXV8dBg5J).
 
 ### Linguagem C
 **2.**  Assim que o Portugol fizer sentido você pode partir para uma linguagem mais desafiadora e poderosa como a linguagem C. Embora seja uma linguagem antiga, a maioria das linguagens que temos disponíveis no mercado hoje foram criadas utilizando a C, logo a sintaxe e a gramática delas apresentam bastantes semelhanças, por isso faz sentido conhecer ela inicialmente.
