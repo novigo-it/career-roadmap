@@ -1,6 +1,6 @@
 # Plano de Estudos 
 
- Esse documento trata-se de um esquema do que **EU**, Christian, considero que seja o ideal para alguém que esteja começando na área de Desenvolvimento. Esse caminho não é mandatório, já que cada um tem o seu ritmo e os seus métodos para captalizar as coisas, porém é válido como ponto de apoio. Considere que esse roteiro é para uma carreira como Desenvolvedor Full Stack.
+ Esse documento trata-se de um esquema do que **EU**, Christian, considero que seja o ideal para alguém que esteja começando na área de Desenvolvimento. Esse caminho não é mandatório, já que cada um tem o seu ritmo e os seus métodos para captalizar as coisas, porém é válido como ponto de apoio. Considere que esse roteiro é para uma carreira como **Desenvolvedor Full Stack**.
   
 # Introdução ao Desenvolvimento
 
